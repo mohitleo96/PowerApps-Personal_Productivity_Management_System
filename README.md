@@ -9,13 +9,13 @@ Watch the full video of App Version - 3.0
 Personal Productivity Management System is a comprehensive Power Apps Canvas Application designed to help users efficiently manage their daily tasks, reminders, and personal productivity activities.
 
 Key Features
-✅ To-Do List Management for tracking and organizing tasks.
-🔔 Task Reminders and Due Date Notifications powered by Power Automate flows.
-🔄 Automated Workflows integrated with Power Automate to streamline task management processes.
-🗄️ Dataverse Backend with well-structured tables and multiple relationships for scalable data management.
-📱 Fully Responsive Design that works seamlessly across Desktop, Tablet, iOS, and Android devices.
-⏰ Due Date Tracking and Reminder System to ensure tasks are completed on time.
-🚀 Continuous Enhancements with new productivity-focused features and ideas being added regularly.
+✅ To-Do List Management for tracking and organizing tasks.<br>
+🔔 Task Reminders and Due Date Notifications powered by Power Automate flows.<br>
+🔄 Automated Workflows integrated with Power Automate to streamline task management processes.<br>
+🗄️ Dataverse Backend with well-structured tables and multiple relationships for scalable data management.<br>
+📱 Fully Responsive Design that works seamlessly across Desktop, Tablet, iOS, and Android devices.<br>
+⏰ Due Date Tracking and Reminder System to ensure tasks are completed on time.<br>
+🚀 Continuous Enhancements with new productivity-focused features and ideas being added regularly.<br>
 
 <img width="1919" height="778" alt="image" src="https://github.com/user-attachments/assets/8c39b525-3e81-4ff5-978a-c138bd9e8c11" />
 
