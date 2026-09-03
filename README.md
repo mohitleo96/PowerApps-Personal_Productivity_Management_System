@@ -1,7 +1,10 @@
 # PowerApps-Personal_Productivity_Management_System
 Personal Productivity Management System 🤗 is a responsive Power Apps Canvas App with Dataverse and Power Automate integration. It features task management, to-do lists, due date reminders, automated workflows, enterprise-grade error handling, delegation best practices, and seamless support across 💻desktop, 💊tablet, 🍎iOS, and 📱Android devices.
 
-Personal Productivity Management System (Power Apps Canvas App)
+Watch the full video of App Version - 3.0
+
+
+**Personal Productivity Management System (Power Apps Canvas App)**
 
 Personal Productivity Management System is a comprehensive Power Apps Canvas Application designed to help users efficiently manage their daily tasks, reminders, and personal productivity activities.
 
@@ -30,3 +33,11 @@ Project Goal
 The primary objective of this application is to create a centralized productivity solution while showcasing real-world Power Platform development practices, including responsive UI design, Dataverse integration, Power Automate automation, delegation handling, and enterprise-grade error management.
 
 This project serves as both a personal productivity tool and a demonstration of advanced Power Apps development capabilities.
+
+<img width="1912" height="747" alt="image" src="https://github.com/user-attachments/assets/52f48cac-4b1b-48b4-8b2c-bab5fae4d02b" />
+
+<img width="1909" height="679" alt="image" src="https://github.com/user-attachments/assets/2b7ea600-8346-42ef-bacb-096c20532d55" />
+
+
+
+
