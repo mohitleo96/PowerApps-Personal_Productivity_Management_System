@@ -20,7 +20,7 @@ Personal Productivity Management System is a comprehensive Power Apps Canvas App
 <img width="1919" height="778" alt="image" src="https://github.com/user-attachments/assets/8c39b525-3e81-4ff5-978a-c138bd9e8c11" />
 
 <img width="471" height="698" alt="image" src="https://github.com/user-attachments/assets/3019d460-0b88-49d3-a4e7-874104104291" />
-<br>
+<br><br>
 
 **Technical Highlights**<br>
 Built using Microsoft Power Apps Canvas App.<br>
